@@ -1,6 +1,6 @@
 // Supabase authentication and user management
-const SUPABASE_URL = 'https://dwhnjikownwksbamdqdm.supabase.co';
-const SUPABASE_ANON_KEY = 'sb_publishable_su8HLqGi3osha9PRyaXsmQ_glK4-JoQ';
+const SUPABASE_URL = "https://dwhnjikownwksbamdqdm.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_su8HLqGi3osha9PRyaXsmQ_glK4-JoQ";
 
 // Initialize Supabase client
 const { createClient } = supabase;
