@@ -1,6 +1,6 @@
 // Supabase authentication and user management
 const SUPABASE_URL = "https://dwhnjikownwksbamdqdm.supabase.co";
-const SUPABASE_ANON_KEY = "sb_publishable_su8HLqGi3osha9PRyaXsmQ_glK4-JoQ";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR3aG5qaWtvd253a3NiYW1kcWRtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njc1MjQ3ODEsImV4cCI6MjA4MzEwMDc4MX0.nKIUy3o5DICVmpk6UQYwV3KZ9HYsngf1utHSBMBQtGw";
 
 // Initialize Supabase client
 const { createClient } = supabase;
